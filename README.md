@@ -25,6 +25,8 @@ To view training results and loss plots, run:
 and click the URL http://localhost:8097
 
 
+If you have prblem to download the pretrained vgg16.t7 file. You can download [here](https://www.dropbox.com/s/jizamlhqqybo50d/vgg16.t7?dl=0): and put it into directory: ./models  
+
 ## Acknowledgments
 This is work is highlg inspired by [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix#prerequisites)  
 
