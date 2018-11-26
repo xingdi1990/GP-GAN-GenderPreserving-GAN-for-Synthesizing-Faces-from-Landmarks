@@ -29,12 +29,13 @@ If you have prblem to download the pretrained vgg16.t7 file. You can download [h
 
 ## Reference
 
-@article{di2017gp,
+$ @article{di2017gp,
   title={{GP-GAN}: gender preserving GAN for synthesizing faces from landmarks},
   author={Di, Xing and Sindagi, Vishwanath A and Patel, Vishal M},
   journal={arXiv preprint arXiv:1710.00962},
   year={2017}
 }
+$
 
 ## Acknowledgments
 This is work is highlg inspired by [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix#prerequisites)  
