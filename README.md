@@ -29,12 +29,19 @@ If you have prblem to download the pretrained vgg16.t7 file. You can download [h
 
 ## Reference
 ```
-@article{di2017gp,
-  title={{GP-GAN}: gender preserving GAN for synthesizing faces from landmarks},
-  author={Di, Xing and Sindagi, Vishwanath A and Patel, Vishal M},
-  journal={arXiv preprint arXiv:1710.00962},
-  year={2017}
-}
+@INPROCEEDINGS{di2018gp, 
+author={X. Di and V. A. Sindagi and V. M. Patel}, 
+booktitle={2018 24th International Conference on Pattern Recognition (ICPR)}, 
+title={GP-GAN: Gender Preserving GAN for Synthesizing Faces from Landmarks}, 
+year={2018}, 
+volume={}, 
+number={}, 
+pages={1079-1084}, 
+keywords={Generators;Gallium nitride;Task analysis;Generative adversarial networks;Training;Feature extraction;Face recognition}, 
+doi={10.1109/ICPR.2018.8545081}, 
+ISSN={1051-4651}, 
+month={Aug},}
+
 ```
 
 ## Acknowledgments
