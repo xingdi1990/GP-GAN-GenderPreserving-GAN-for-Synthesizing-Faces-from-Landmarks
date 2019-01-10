@@ -30,7 +30,7 @@ If you have prblem to download the pretrained vgg16.t7 file. You can download [h
 ## Reference
 ```
 @INPROCEEDINGS{di2018gp, 
-author={X. Di and V. A. Sindagi and V. M. Patel}, 
+author={Xing Di and Vishwanath A. Sindagi and Vishal M. Patel}, 
 booktitle={2018 24th International Conference on Pattern Recognition (ICPR)}, 
 title={GP-GAN: Gender Preserving GAN for Synthesizing Faces from Landmarks}, 
 year={2018},
