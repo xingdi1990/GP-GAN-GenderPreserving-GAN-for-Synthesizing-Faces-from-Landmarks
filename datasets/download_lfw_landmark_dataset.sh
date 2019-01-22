@@ -1,5 +1,5 @@
-URL=https://www.dropbox.com/s/45tu9jabvo0hkq1/lfw_gpgan.tar.gz?dl=0
-ZIP_FILE=./lfw_gpgan.tar.gz
+URL=https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/xdi1_jh_edu/EQgp0DIRW1FAieMlKFL6W5wBg95Z8JVcq2YDmQpNZagSRg?e=xklBw7
+ZIP_FILE=./gpgan_lfw.tar.xz
 TARGET_DIR=./lfw/
 wget -N $URL -O $ZIP_FILE
 mkdir $TARGET_DIR
