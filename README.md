@@ -35,7 +35,8 @@ booktitle={2018 24th International Conference on Pattern Recognition (ICPR)},
 title={GP-GAN: Gender Preserving GAN for Synthesizing Faces from Landmarks}, 
 year={2018},
 pages={1079-1084}, 
-month={Aug},}
+month={Aug}
+}
 
 ```
 
