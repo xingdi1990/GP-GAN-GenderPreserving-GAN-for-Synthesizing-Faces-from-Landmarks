@@ -5,7 +5,8 @@ import functools
 from torch.autograd import Variable
 import numpy as np
 from util.vgg16 import Vgg16
-from models.classifier import Classifier
+# from models.classifier import Classifier
+from classifier import Classifier
 import util.util as util
 import os
 import torchvision.models as models
