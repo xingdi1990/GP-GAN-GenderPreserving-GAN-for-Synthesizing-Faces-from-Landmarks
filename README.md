@@ -17,7 +17,7 @@ Download dataset
 ## Training
 change directory into the cloned folder
 * cd ..
-* python train.py --dataroot ./datasets/lfw/ --which_direction BtoA --fineSize 64 --loadSize 64 --no_flip  
+* python train.py --dataroot ./datasets/lfw/ --which_direction BtoA --fineSize 64 --loadSize 64 --no_flip  --name lfw_gpgan
 
 To view training results and loss plots, run:  
 * python -m visdom.server  
