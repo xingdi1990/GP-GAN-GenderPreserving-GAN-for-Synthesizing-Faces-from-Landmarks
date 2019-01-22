@@ -1,7 +1,7 @@
-URL=https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/xdi1_jh_edu/EQgp0DIRW1FAieMlKFL6W5wBg95Z8JVcq2YDmQpNZagSRg?e=xklBw7
-ZIP_FILE=./gpgan_lfw.tar.xz
+URL=https://www.dropbox.com/s/zpo35fq1vafe637/gpgan_lfw.zip?dl=0
+ZIP_FILE=./gpgan_lfw.zip
 TARGET_DIR=./lfw/
 wget -N $URL -O $ZIP_FILE
 mkdir $TARGET_DIR
-tar -xzvf $ZIP_FILE
+unzip $ZIP_FILE -d ./datasets/
 rm $ZIP_FILE
