@@ -27,6 +27,9 @@ and click the URL http://localhost:8097
 
 If you have prblem to download the pretrained vgg16.t7 file. You can download [here](https://www.dropbox.com/s/6nkmly7onpi5uug/vgg16.t7?dl=0): and put it into directory: ./models  
 
+## Testing
+python test.py --dataroot ./datasets/lfw/ --which_direction BtoA --fineSize 64 --loadSize 64  --name lfw_gpgan --which_epoch 10
+
 ## Reference
 ```
 @INPROCEEDINGS{di2018gp, 
