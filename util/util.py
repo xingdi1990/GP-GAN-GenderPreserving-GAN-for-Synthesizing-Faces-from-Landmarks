@@ -8,8 +8,8 @@ import os
 import collections
 from torch.autograd import Variable
 from torch.utils.serialization import load_lua
-# from util.vgg16 import Vgg16
-from vgg16 import Vgg16
+from util.vgg16 import Vgg16
+# from vgg16 import Vgg16
 from torchvision import transforms
 #from vggface import Vggface
 
