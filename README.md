@@ -1,5 +1,5 @@
 # GP-GAN: Gender-Preserving-GAN-for-Synthesizing-Faces-from-Landmarks
-This repository is about out ICPR work, GP-GAN: Gender Preserving GAN for Synthesizing Faces from Landmarks
+This repository is about out ICPR work, [GP-GAN: Gender Preserving GAN for Synthesizing Faces from Landmarks](https://arxiv.org/abs/1710.00962)
 
 ## Prerequisites
 This code has tested on Ubuntu 16/18 with Pytorch 0.4 and cuda 9.0/8.0
